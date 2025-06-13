@@ -1,0 +1,9 @@
+name: PhysGaussian
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit-dev
+  - python=3.9
+  - pip
