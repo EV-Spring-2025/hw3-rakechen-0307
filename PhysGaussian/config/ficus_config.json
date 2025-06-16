@@ -11,6 +11,7 @@
   "density": 200,
   "g": [0, 0, 0],
   "n_grid": 50,
+  "softening": 0.1,
   "grid_v_damping_scale": 0.9999,
   "rpic_damping": 0.0,
   "boundary_conditions": [

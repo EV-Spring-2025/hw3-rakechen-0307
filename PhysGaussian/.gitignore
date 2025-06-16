@@ -7,3 +7,5 @@ output
 *.jpg
 model
 log
+
+output**
